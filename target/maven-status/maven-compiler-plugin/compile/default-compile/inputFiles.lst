@@ -1,0 +1,4 @@
+/Users/eugene/mallWork/myStarter/src/main/java/com/eugene/idempotent/util/IdempotentUtils.java
+/Users/eugene/mallWork/myStarter/src/main/java/com/eugene/idempotent/annotation/Idempotent.java
+/Users/eugene/mallWork/myStarter/src/main/java/com/eugene/idempotent/interceptor/IdempotentInterceptor.java
+/Users/eugene/mallWork/myStarter/src/main/java/com/eugene/idempotent/config/IdempotentAutoConfiguration.java
